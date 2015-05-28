@@ -1,0 +1,21 @@
+{
+  "name": "Prismr",
+  "ignore": [
+    "**/.*",
+    "bower_components",
+    "public"
+  ],
+  "dependencies": {
+    "underscore": "1.5.2",
+    "jquery": "2.0.3",
+    "rng-js": "1.0.0",
+    "commonjs": "https://gist.github.com/6786792.git",
+    "EaselJS": "0.8.0",
+    "TweenJS": "0.6.0",
+    "SoundJS": "0.6.0",
+    "EventBus": "https://github.com/krasimir/EventBus.git",
+    "objectsjs": "https://github.com/martinwells/objects.js.git",
+    "raygun4js": "1.15.0",
+    "PreloadJS": "0.6.0"
+  }
+}
